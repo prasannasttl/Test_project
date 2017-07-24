@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{64818583-8802-425C-BFB1-167E0E75E08F}|Unit Tests">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestDemo__24.UITests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="UITests\Tests.cs" Line="10" Column="2" />
+      <File FileName="Droid\Properties\AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="..\..\..\..\..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="2292" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestDemo__24.Droid PreferredExecutionTarget="Android.192.168.203.101:5555" />
+</Properties>

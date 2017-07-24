@@ -1,0 +1,14 @@
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\TestDemo_24.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\TestDemo_24.pdb
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\obj\Debug\TestDemo_24.App.xaml.g.cs
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\obj\Debug\TestDemo_24.TestDemo_24Page.xaml.g.cs
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\obj\Debug\TestDemo_24.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\TestDemo_24\obj\Debug\TestDemo_24.pdb

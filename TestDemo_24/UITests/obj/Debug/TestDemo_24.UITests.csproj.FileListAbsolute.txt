@@ -1,0 +1,8 @@
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Debug\TestDemo_24.UITests.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Debug\TestDemo_24.UITests.pdb
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Debug\nunit.framework.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Debug\nunit.framework.xml
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\obj\Debug\TestDemo_24.UITests.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\obj\Debug\TestDemo_24.UITests.pdb

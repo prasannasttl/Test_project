@@ -1,0 +1,7 @@
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Release\TestDemo_24.UITests.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Release\nunit.framework.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Release\Xamarin.UITest.dll
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Release\nunit.framework.xml
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\bin\Release\Xamarin.UITest.xml
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\obj\Release\TestDemo_24.UITests.csprojResolveAssemblyReference.cache
+C:\Users\shantanu.manik\Documents\Projects\TestDemo_24\UITests\obj\Release\TestDemo_24.UITests.dll
